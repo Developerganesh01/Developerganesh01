@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Ganesh Mathapati</h1>
-<h3 align="center">Software Developer @ Fastenal | Angular + .NET </h3>
+<h3 align="center">Software Developer @ Fastenal | Ract js + Angular + .NET </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Refactoring%20projects-Angular%20+%20Spring%20Boot-blueviolet?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
@@ -18,7 +18,6 @@
 ## 👨‍💻 About Me
 
 - 💼 Software Developer at **Fastenal**
-- 🌱 Learning **RxJS**, **Java**, and **Spring Boot**
 - 💬 Ask me about: `.NET`, `Angular`, `C#`, `JavaScript`
 - 🚀 Focused on writing clean, scalable code and building solid web apps
 
