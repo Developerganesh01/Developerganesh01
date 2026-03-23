@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Ganesh Mathapati</h1>
-<h3 align="center">Software Developer @ Fastenal | Ract js + Angular + .NET </h3>
+<h3 align="center">Software Developer @ Fastenal | React js + Angular + .NET </h3>
 
 
 <p align="center">
