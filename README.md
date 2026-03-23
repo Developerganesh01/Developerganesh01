@@ -1,8 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Ganesh Mathapati</h1>
 <h3 align="center">Software Developer @ Fastenal | Ract js + Angular + .NET </h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Refactoring%20projects-Angular%20+%20Spring%20Boot-blueviolet?style=for-the-badge&logo=spring&logoColor=white" />
-</p>
+
 
 <p align="center">
   <a href="https://www.instagram.com/ganeshm_02">
