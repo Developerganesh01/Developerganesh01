@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 💼 Software Developer at **Fastenal**
-- 💬 Ask me about: `.NET`, `Angular`, `C#`, `JavaScript`
+- 💬 Ask me about: `.NET`, `React`,`Angular`, `C#`, `JavaScript`
 - 🚀 Focused on writing clean, scalable code and building solid web apps
 
 ---
